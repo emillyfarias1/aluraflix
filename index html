@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body><!--inicio, do corpo do documento
+<body>
 <header>ALURAFLIX</header>
     <section class="chamada">
         <div class="chamada-texto">
